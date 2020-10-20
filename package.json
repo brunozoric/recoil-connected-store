@@ -14,6 +14,7 @@
     "react-dom": "^16.14.0",
     "react-scripts": "3.4.3",
     "recoil": "0.0.13",
+    "recoil-undo": "0.0.6",
     "typescript": "^3.7.5"
   },
   "scripts": {
